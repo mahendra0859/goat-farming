@@ -54,3 +54,7 @@ html {
   display: block;
   padding-bottom: 2rem;
 }
+
+.cursor-pointer {
+  cursor: pointer;
+}
